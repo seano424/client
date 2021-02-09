@@ -5,7 +5,7 @@ import GoogleAuth from './GoogleAuth';
 const Header = () => {
 
   return (
-    <div className="ui pointing secondary menu">
+    <div className="ui secondary menu">
       <Link to="/" className='active item'>
         Streamy
       </Link>
